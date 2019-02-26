@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-no changes have ben made whatsoever
+no changes have been made whatsoever
